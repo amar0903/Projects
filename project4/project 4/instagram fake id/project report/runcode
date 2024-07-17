@@ -1,0 +1,2 @@
+python model_eval.py
+python main_model.py
